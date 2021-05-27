@@ -5,5 +5,5 @@ Depois de terminado a instalação das dependências, execute o comando npm star
 
 <h3 align="center">
     <p>Covid App</p>
-    <img src="/screenshots/reactprint2.png" height="480" width="800">
+    <img src="/screenshot/reactprint2.png" height="480" width="800">
 </h3>
